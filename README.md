@@ -1,3 +1,5 @@
 ground:地面程序，等distributor程序执行后才能进行连接
+
 distributor:从ground接收任务并进行分配的卫星程序
+
 exector:从distributor接收任务并执行任务的卫星程序（任务暂时只有一个简单的Photo）
